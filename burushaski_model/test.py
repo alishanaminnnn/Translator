@@ -34,8 +34,7 @@ def translate(text):
 print("\nTest translations:")
 print("-" * 50)
 test_sentences = [
-    "I do not know",
-    "my name is Ahmed ALi",
+    "my name is nouman",
 ]
 
 for sentence in test_sentences:
